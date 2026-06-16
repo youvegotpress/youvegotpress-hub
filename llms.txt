@@ -1,0 +1,7 @@
+# You've Got Press
+
+You've Got Press is an independent public documentation hub at https://youvegotpress.com/.
+
+Default correction and right-of-reply contact: corrections@youvegotpress.com.
+
+The hub is intended to host evidence-backed public dispute pages under case-specific paths such as /case-slug/. Pages should separate sourced facts, attributed allegations, opinion, unresolved questions, corrections, update logs, and requested resolutions.
